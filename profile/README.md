@@ -34,7 +34,7 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
 ## Resources
 
 ℹ️ Are you feeling lost in the stack of developer resources? 
-[**The non-exhaustive list of developer resources**](/RESOURCES.md) could help you find appropriate places related to Kontent and Xperience.
+[**The non-exhaustive list of developer resources**](https://github.com/Kentico/Home/raw/master/RESOURCES.md) could help you find appropriate places related to Kontent and Xperience.
 
 [![Developer Resources](https://img.shields.io/badge/-Developer%20Resources-blue?style=for-the-badge)](https://kentico.github.io/Home/RESOURCES)
 
