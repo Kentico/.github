@@ -1,13 +1,13 @@
 # Kentico
 
-![Kentico logo](/images/kentico_rgb_small_200px.png)
+![Kentico logo](https://github.com/Kentico/Home/raw/master/images/kentico_rgb_small_200px.png)
 
 Welcome to the world of Kentico open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/Kentico/Home/wiki) of this repository, you can find the best practices and guidelines for OS projects and SDK developers. 
 
 ## Our products and related open-source projects
 
 ### Kontent by Kentico
-<img alt="Kontent by Kentico logo" src="/images/kk-logo---by-k---hor-color-pos-sz-rgb-white-bg.png" width="200"/>
+<img alt="Kontent by Kentico logo" src="https://github.com/Kentico/Home/raw/master/images/kk-logo---by-k---hor-color-pos-sz-rgb-white-bg.png" width="200"/>
 
 [Kontent](https://kontent.ai/) is a cloud-based content management platform built by [Kentico](https://www.kentico.com/). Its technology-agnostic API enables omnichannel content delivery and management - from any platform to any device. Kontent is a SaaS solution built on a modern technology stack - it's highly available, it scales automatically, and it's secure.
 
@@ -23,7 +23,7 @@ Besides the product itself, this GitHub organization carries a set of tools, sam
 
 <br/>
 
-<img alt="Kentico Xperience logo" src="/images/kx-logo-by-kentico-hor-color-pos-sz-rgb-white-bg.png" width="200"/>
+<img alt="Kentico Xperience logo" src="https://github.com/Kentico/Home/raw/master/images/kx-logo-by-kentico-hor-color-pos-sz-rgb-white-bg.png" width="200"/>
 
 [Kentico Xperience](https://www.kentico.com/) is content management, digital marketing, and commerce tools in a single platform for creating engaging digital experiences across channels, on-premises or in the cloud.
 
