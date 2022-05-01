@@ -1,3 +1,3 @@
 # .github
 
-See [Profile readme](profile/README.MD)
+See [Profile readme](./profile/README.md).
