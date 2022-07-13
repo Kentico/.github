@@ -1,3 +1,5 @@
+> :information_source: **All Kontent-related repositories are currently being migrated to [Kontent.ai organization](https://github.com/kontent-ai). If you can't find a repository you're looking for, it may have been already moved to the new organization. Some repositories may be temporarily unavailable, thank you for your understanding!**
+
 # Kentico
 
 ![Kentico logo](https://github.com/Kentico/Home/raw/master/images/kentico_rgb_small_200px.png)
