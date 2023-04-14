@@ -1,6 +1,6 @@
-# <img src="../images/Kentico-shortcut-color-positive-rgb.svg" alt="Kentico Logo" title="Kentico" width="23"> Kentico
+# <img src="https://raw.githubusercontent.com/Kentico/.github/main/images/Kentico-shortcut-color-positive-rgb.svg" alt="Kentico Logo" title="Kentico" width="23"> Kentico
 
-<img src="../images/kentico-people.png" alt="Kentico GitHub Community" title="Kentico GitHub Community" width="600" style="margin-bottom: 1rem;">
+<img src="https://raw.githubusercontent.com/Kentico/.github/main/images/kentico-people.png" alt="Kentico GitHub Community" title="Kentico GitHub Community" width="600" style="margin-bottom: 1rem;">
 
 Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/Kentico/Home/wiki) of [the Home repository](https://github.com/Kentico/Home), you can find the best practices and guidelines for OS projects.
 
