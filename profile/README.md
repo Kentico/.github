@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Kentico/.github/main/images/kentico-people.png" alt="Kentico GitHub Community" title="Kentico GitHub Community" width="600" style="margin-bottom: 1rem;">
 
-Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/main/CONTRIBUTING.md) to save you some time and trouble.
+Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/.github/blob/main/CONTRIBUTING.md) to save you some time and trouble.
 
 ## Our products
 
@@ -26,26 +26,19 @@ Welcome to the world of [Kentico](https://www.kentico.com/) open source software
 
 ## Resources
 
-ℹ️ Are you feeling lost in the stack of developer resources?
-This short [**list of developer resources**](https://kentico.github.io/Home/RESOURCES) could help you find resources, information, or point you in the right direction.
-
-[![Developer Resources](https://img.shields.io/badge/-Developer%20Resources-blue?style=for-the-badge)](https://kentico.github.io/Home/RESOURCES)
-
-💡 Wanna be part of the **Kentico GitHub Community**? [Join the Kentico GitHub Organization](https://kentico.github.io/join) to stay up to date on Kentico's open-source activity!
-
-[![Join Kentico GitHub Organization](https://img.shields.io/badge/-Join%20Kentico%20GitHub%20Organization-%23F05A22?style=for-the-badge)](https://kentico.github.io/join)
+This short [**list of developer resources**](https://github.com/Kentico/.github/RESOURCES.md) could help you find resources, information, or point you in the right direction.
 
 ## Getting support for open-source projects
 
-**Disclaimer:** Please note that the level of provided support is always determined by the `Support` section of a project's `README.md` file. You can review the various [levels of support](https://github.com/Kentico/Home/blob/main/SUPPORT.md) that Kentico provides for open source projects.
+**Disclaimer:** Please note that the level of provided support is always determined by the `Support` section of a project's `README.md` file. You can review the various [levels of support](https://github.com/Kentico/.github/blob/main/SUPPORT.md) that Kentico provides for open source projects.
 
 - Use GitHub Issues on each project repository for submitting bugs and feature requests related to OS projects.
 - Use [Kentico DevNet](https://devnet.kentico.com/questions-answers) to ask questions about using Kentico's OS projects.
 
-Security concerns are covered in the [SECURITY.md](https://github.com/Kentico/Home/blob/main/SECURITY.md) file.
+Security concerns are covered in the [SECURITY.md](https://github.com/Kentico/.github/blob/main/SECURITY.md) file.
 
-Read [CONTRIBUTING.md](https://github.com/Kentico/Home/blob/main/CONTRIBUTING.md) for more info on contributing to Kentico's open source projects.
+Read [CONTRIBUTING.md](https://github.com/Kentico/.github/blob/main/CONTRIBUTING.md) for more info on contributing to Kentico's open source projects.
 
 ## Code of Conduct
 
-The Kentico team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/Kentico/Home/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at <https://community.kentico.com/support>.
+The Kentico team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/Kentico/.github/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at <https://community.kentico.com/support>.
