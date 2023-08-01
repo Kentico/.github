@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Kentico/.github/main/images/kentico-people.png" alt="Kentico GitHub Community" title="Kentico GitHub Community" width="600" style="margin-bottom: 1rem;">
 
-Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md) to save you some time and trouble. In the [wiki section](https://github.com/Kentico/Home/wiki) of [the Home repository](https://github.com/Kentico/Home), you can find the best practices and guidelines for OS projects.
-
-[Kentico GitHub landing page](https://kentico.github.io)
+Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/Home/blob/main/CONTRIBUTING.md) to save you some time and trouble.
 
 ## Our products
 
@@ -24,7 +22,7 @@ Welcome to the world of [Kentico](https://www.kentico.com/) open source software
 - [Tutorial](https://docs.xperience.io/13tutorial)
 - List of [Kentico Xperience open-source projects](https://github.com/topics/kentico-xperience).
 
-> Previous versions (through version 12) of this product were named Kentico CMS and Kentico EMS. To see related repositories for these version see [kentico-ems](https://github.com/topics/kentico-ems) topic.
+> Previous versions (through version 12) of this product were named Kentico CMS and Kentico EMS.
 
 ## Resources
 
@@ -39,16 +37,15 @@ This short [**list of developer resources**](https://kentico.github.io/Home/RESO
 
 ## Getting support for open-source projects
 
-**Disclaimer:** Please note that the level of provided support is always determined by the LICENSE file of a given open-source project. Unless stated otherwise, Kentico Software does not provide support nor testing for open source software. OS projects are developed by volunteers and maintained by Kentico employees in their spare time. The software is distributed as it is, without any guarantee.
+**Disclaimer:** Please note that the level of provided support is always determined by the `Support` section of a project's `README.md` file. You can review the various [levels of support](https://github.com/Kentico/Home/blob/main/SUPPORT.md) that Kentico provides for open source projects.
 
 - Use GitHub Issues on each project repository for submitting bugs and feature requests related to OS projects.
 - Use [Kentico DevNet](https://devnet.kentico.com/questions-answers) to ask questions about using Kentico's OS projects.
-- You can also use [Stack Overflow](https://stackoverflow.com/) to ask questions about Kentico's projects. Make sure you label them with the [`kentico-xperience`](https://stackoverflow.com/questions/ask?tags=kentico-xperience), or [`kentico`](https://stackoverflow.com/questions/ask?tags=kentico) tag to make it easy for the community to find them.
 
-Read [CONTRIBUTING.md](https://github.com/Kentico/Home/blob/master/CONTRIBUTING.md#where-to-get-support) for more info on getting support.
+Security concerns are covered in the [SECURITY.md](https://github.com/Kentico/Home/blob/main/SECURITY.md) file.
+
+Read [CONTRIBUTING.md](https://github.com/Kentico/Home/blob/main/CONTRIBUTING.md) for more info on contributing to Kentico's open source projects.
 
 ## Code of Conduct
 
-The Kentico team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/Kentico/Home/blob/master/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at devrel@kentico.com.
-
-> :information_source: **All repositories related to Kontent.ai are migrated under [Kontent.ai organization](https://github.com/kontent-ai) in case you can't find a repository you're looking for**.
+The Kentico team is committed to fostering a welcoming community, therefore all our projects has adopted the [Contributor Covenant Code of Conduct](https://github.com/Kentico/Home/blob/main/CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at <https://community.kentico.com/support>.
