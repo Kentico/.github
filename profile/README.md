@@ -4,24 +4,34 @@
 
 Welcome to the world of [Kentico](https://www.kentico.com/) open source software. This is the home repository where you can get up to speed in minutes. Before you start using any of our software or contributing, read this guide and our [contributing guidelines](https://github.com/Kentico/.github/blob/main/CONTRIBUTING.md) to save you some time and trouble.
 
-## Our products
+## [Xperience by Kentico](#xperience-by-kentico)
 
-### [Xperience by Kentico](#xperience-by-kentico)
+[Xperience by Kentico](https://www.kentico.com/platform) is our next-generation hybrid headless digital experience platform (DXP) that helps you deliver digital experiences to your customers across multiple channels (web, email, headless).
 
-[Xperience by Kentico](https://www.kentico.com/platforms/xperience-by-kentico) is a next-generation hybrid headless digital experience platform (DXP) that helps you deliver digital experiences to your customers across multiple channels (web, email, headless).
+- [Documentation](https://docs.kentico.com/x/DQKQC)
+- [Training modules](https://docs.kentico.com/personas)
+- [Kentico Community Portal](https://community.kentico.com/)
+- [Other resources](https://community.kentico.com/resource-hub)
 
-- [Documentation](https://docs.xperience.io/x/DQKQC)
-- [Tutorial](https://docs.xperience.io/tutorial)
-- [Community Portal](https://community.kentico.com/)
-- [Resources](https://community.kentico.com/resource-hub)
-- List of [Xperience by Kentico open-source projects](https://github.com/topics/xperience-by-kentico).
+### Open source
+
+Our open-source projects and libraries are tagged with the `xperience-by-kentico` topic and [listed here](https://github.com/topics/xperience-by-kentico).
+
+These repositories are organized into two categories:
+- [Xperience by Kentico integrations](https://github.com/topics/xperience-by-kentico-integrations) - fully supported libraries covered by our 7-day bugfix policy
+- [Xperience by Kentico labs](https://github.com/topics/xperience-by-kentico-labs) - experimental or educational projects, not covered by our support policy
+
+Are you upgrading or migrating to Xperience by Kentico? Be sure to explore our [Xperience by Kentico Migration Toolkit](https://github.com/Kentico/xperience-by-kentico-migration-toolkit).
+Interested in sharing your own open-source integration for Xperience by Kentico? Read the blog post [How to create your first Xperience by Kentico open-source contribution](https://community.kentico.com/blog/how-to-create-your-first-xperience-by-kentico-open-source-contribution).
+
+## Past products
 
 ### [Kentico Xperience 13](#kentico-xperience-13)
 
 [Kentico Xperience 13](https://www.kentico.com/platforms/kentico-xperience-13) is a full featured digital experience platform (DXP) that helps you create modern websites with ease, flexibility, and with full control over your content.
 
-- [Documentation](https://docs.xperience.io/x/UQmRBg)
-- [Tutorial](https://docs.xperience.io/13tutorial)
+- [Documentation](https://docs.kentico.com/13/installation)
+- [Tutorial](https://docs.kentico.com/13tutorial)
 - [Kentico Xperience 13 DevNet](https://devnet.kentico.com/)
 - List of [Kentico Xperience open-source projects](https://github.com/topics/kentico-xperience).
 
